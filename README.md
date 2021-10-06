@@ -1,1 +1,1 @@
-# simple_trading_bot
+# Simple trading bot
