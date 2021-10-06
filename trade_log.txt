@@ -1,0 +1,270 @@
+Average Price: 49614.47249999999. Last price: 51275.78
+Difference: 3.3484332620890234%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49649.99379999999. Last price: 51294.41
+Difference: 3.3120169291944945%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49649.480099999986. Last price: 51243.04
+Difference: 3.209620517254952%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49649.701099999984. Last price: 51265.14
+Difference: 3.2536729611852833%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.36159999999. Last price: 51331.19
+Difference: 3.3853296246688647%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.41039999999. Last price: 51336.07
+Difference: 3.3950567304877888%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.56559999999. Last price: 51351.59
+Difference: 3.4259919891023616%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.49799999999. Last price: 51344.83
+Difference: 3.4125176347677533%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.83369999999. Last price: 51378.4
+Difference: 3.4794305981613594%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.68569999999. Last price: 51363.6
+Difference: 3.4499308032718945%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.38949999999. Last price: 51333.98
+Difference: 3.390890820705472%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.74959999999. Last price: 51369.99
+Difference: 3.4626675606122426%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.89819999998. Last price: 51384.85
+Difference: 3.492286872667316%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.38889999999. Last price: 51433.92
+Difference: 3.590093126277094%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.50959999999. Last price: 51445.99
+Difference: 3.6141507367180026%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.37409999999. Last price: 51432.44
+Difference: 3.587143220674749%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.19749999999. Last price: 51414.78
+Difference: 3.551943535702251%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.28289999999. Last price: 51423.32
+Difference: 3.568965385182432%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.59659999999. Last price: 51454.69
+Difference: 3.631491278167709%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.89769999999. Last price: 51484.8
+Difference: 3.6915050278129025%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.856199999995. Last price: 51480.65
+Difference: 3.6832334981265147%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.63799999999. Last price: 51458.83
+Difference: 3.6397429627598843%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49652.48039999999. Last price: 51543.07
+Difference: 3.8076438171254168%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49652.430299999985. Last price: 51538.06
+Difference: 3.7976584199545416%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49652.37959999999. Last price: 51532.99
+Difference: 3.787553416674516%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49652.38819999999. Last price: 51533.85
+Difference: 3.789267481800618%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.828599999986. Last price: 51477.89
+Difference: 3.677732424944402%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.57049999999. Last price: 51452.08
+Difference: 3.6262891221134907%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49650.82669999999. Last price: 51377.7
+Difference: 3.478035341554553%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.39289999999. Last price: 51434.32
+Difference: 3.5908903977596385%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49651.598199999986. Last price: 51454.85
+Difference: 3.631810184108053%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49690.462799999994. Last price: 51466.88
+Difference: 3.5749660999333743%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49690.51449999999. Last price: 51472.05
+Difference: 3.5852627366134593%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49689.3143. Last price: 51352.03
+Difference: 3.3462238781588605%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.6401. Last price: 51284.61
+Difference: 3.211941193778012%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.5652. Last price: 51277.12
+Difference: 3.1970228836472936%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.75159999999. Last price: 51295.76
+Difference: 3.2341492757487877%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.13249999999. Last price: 51233.85
+Difference: 3.110838387818271%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49687.23659999999. Last price: 51144.26
+Difference: 2.932389683349812%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49686.5584. Last price: 51076.44
+Difference: 2.7972989974689%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49687.3355. Last price: 51154.15
+Difference: 2.952089270313163%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.064399999996. Last price: 51227.04
+Difference: 3.0972742017296273%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.17669999999. Last price: 51238.27
+Difference: 3.1196421421517018%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.46199999999. Last price: 51266.8
+Difference: 3.1764678085629106%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.331399999995. Last price: 51253.74
+Difference: 3.1504551589752072%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.59939999999. Last price: 51280.54
+Difference: 3.203834721088983%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.97519999999. Last price: 51318.12
+Difference: 3.2786846447177442%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49689.2072. Last price: 51341.32
+Difference: 3.324892653952438%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.693999999996. Last price: 51290
+Difference: 3.2226767723055882%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.328. Last price: 51253.4
+Difference: 3.1497779518763425%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49688.06499999999. Last price: 51227.1
+Difference: 3.097393710139462%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49687.18899999999. Last price: 51139.5
+Difference: 2.9229083577257953%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49686.75519999999. Last price: 51096.12
+Difference: 2.8364999773621946%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
+Average Price: 49686.32409999999. Last price: 51053.01
+Difference: 2.7506279137281098%
+Balance: BTC 1, USDT: 10000
+Total USDT: BTC 10000 
+
